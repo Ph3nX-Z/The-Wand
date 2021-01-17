@@ -33,7 +33,7 @@ python3 EasySetup.py
 
 ### Windows :
 ```sh
-run shuriken from terminal or wsl
+run The Wand from terminal or wsl
 ```
 
 ## Examples
